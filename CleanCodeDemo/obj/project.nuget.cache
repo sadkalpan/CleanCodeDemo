@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gTsk52/X27WtBqri+ffixvAEcWA5lFAebyLR2GfA2YpSRNFWLCxBVzpG6X5ET4JzELq+LCwEBkWT5lRlnEZ/Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadka\\Document\\C#\\CleanCodeDemo\\CleanCodeDemo\\CleanCodeDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
