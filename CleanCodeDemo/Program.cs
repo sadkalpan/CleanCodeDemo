@@ -6,6 +6,7 @@ namespace CleanCodeDemo
     {
         static void Main(string[] args)
         {
+            //this is comment
             ProductManager productManager = new ProductManager(new CentralBankServiceAdapter());
             productManager.Sell(new Product { Id = 1, Name = "Shoe", Price = 1000 },
                 new Customer{ Id=1, Name="Engin Demirog", IsStudent=false, IsOfficer=true }
